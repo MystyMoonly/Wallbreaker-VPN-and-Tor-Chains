@@ -1,0 +1,1 @@
+driver\Win\devcon.exe install driver\Win\OemWin2k.inf tap0901

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017.03.22 10:37:21.995.cpp,C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Unit1.cpp=C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\Unit1.cpp</Transaction>
+    <Transaction>2017.03.22 10:37:21.995.h,C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Unit1.h=C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\Unit1.h</Transaction>
+    <Transaction>2017.03.22 10:37:21.995.dfm,C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Unit1.dfm=C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\Unit1.dfm</Transaction>
+    <Transaction>2017.03.22 10:37:23.151.cbproj,C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Project1.cbproj=C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\Project1.cbproj</Transaction>
+    <Transaction>2017.03.23 00:37:48.121.cpp,C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\Unit2.cpp=</Transaction>
+    <Transaction>2017.03.27 17:46:36.547.cpp,C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\Unit5.cpp=</Transaction>
+    <Transaction>2017.03.27 17:46:36.547.dfm,C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\Unit5.dfm=</Transaction>
+    <Transaction>2017.05.05 01:36:25.101.cpp,C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\Unit8.cpp=</Transaction>
+    <Transaction>2017.05.05 01:36:25.101.dfm,C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\Unit8.dfm=</Transaction>
+    <Transaction>2017.05.05 15:02:57.727.cpp,C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\Unit1.cpp=C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\Main.cpp</Transaction>
+    <Transaction>2017.05.05 15:02:57.727.h,C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\Unit1.h=C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\Main.h</Transaction>
+    <Transaction>2017.05.05 15:02:57.727.dfm,C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\Unit1.dfm=C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\Main.dfm</Transaction>
+    <Transaction>2017.05.05 15:04:00.409.cpp,C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\Main.cpp=C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\Mainfm.cpp</Transaction>
+    <Transaction>2017.05.05 15:04:00.409.h,C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\Main.h=C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\Mainfm.h</Transaction>
+    <Transaction>2017.05.05 15:04:00.409.dfm,C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\Main.dfm=C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\Mainfm.dfm</Transaction>
+    <Transaction>2017.05.05 15:31:50.989.cpp,C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\Unit10.cpp=</Transaction>
+    <Transaction>2017.05.05 15:34:39.692.cpp,C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\Unit2.cpp=C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\OvpnThr.cpp</Transaction>
+    <Transaction>2017.05.05 15:34:39.692.h,C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\Unit2.h=C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\OvpnThr.h</Transaction>
+    <Transaction>2017.05.05 15:49:26.869.cpp,C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\Unit6.cpp=</Transaction>
+    <Transaction>2017.05.05 15:50:26.355.cpp,C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\Unit3.cpp=C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\TorThr.cpp</Transaction>
+    <Transaction>2017.05.05 15:50:26.355.h,C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\Unit3.h=C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\TorThr.h</Transaction>
+    <Transaction>2017.05.05 15:52:43.287.cpp,C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\Unit4.cpp=C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\ConnectManager.cpp</Transaction>
+    <Transaction>2017.05.05 15:52:43.287.h,C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\Unit4.h=C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\ConnectManager.h</Transaction>
+    <Transaction>2017.05.05 15:52:43.287.dfm,C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\Unit4.dfm=C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\ConnectManager.dfm</Transaction>
+    <Transaction>2017.05.05 16:00:16.546.cpp,C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\Unit5.cpp=C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\HelpForm.cpp</Transaction>
+    <Transaction>2017.05.05 16:00:16.546.h,C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\Unit5.h=C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\HelpForm.h</Transaction>
+    <Transaction>2017.05.05 16:00:16.546.dfm,C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\Unit5.dfm=C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\HelpForm.dfm</Transaction>
+    <Transaction>2017.05.05 16:00:35.698.cpp,C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\HelpForm.cpp=C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\HF.cpp</Transaction>
+    <Transaction>2017.05.05 16:00:35.698.h,C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\HelpForm.h=C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\HF.h</Transaction>
+    <Transaction>2017.05.05 16:00:35.698.dfm,C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\HelpForm.dfm=C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\HF.dfm</Transaction>
+    <Transaction>2017.05.05 16:06:15.408.cpp,C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\Unit7.cpp=C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\VPN2F.cpp</Transaction>
+    <Transaction>2017.05.05 16:06:15.408.h,C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\Unit7.h=C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\VPN2F.h</Transaction>
+    <Transaction>2017.05.05 16:06:15.408.dfm,C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\Unit7.dfm=C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\VPN2F.dfm</Transaction>
+    <Transaction>2017.05.05 16:07:27.814.cpp,C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\Unit9.cpp=C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\RouteThr.cpp</Transaction>
+    <Transaction>2017.05.05 16:07:27.814.h,C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\Unit9.h=C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\RouteThr.h</Transaction>
+    <Transaction>2017.05.09 00:10:34.734.cpp,C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\RouteThr.cpp=</Transaction>
+    <Transaction>2017.05.11 19:26:02.697.cpp,C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\Unit1.cpp=</Transaction>
+    <Transaction>2017.05.11 19:26:20.270.cpp,C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\Unit2.cpp=C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\ConsoleOvpn.cpp</Transaction>
+    <Transaction>2017.05.11 19:26:20.270.h,C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\Unit2.h=C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\ConsoleOvpn.h</Transaction>
+    <Transaction>2017.05.11 19:26:20.270.dfm,C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\Unit2.dfm=C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\ConsoleOvpn.dfm</Transaction>
+    <Transaction>2017.05.17 19:31:49.127.rc,C:\Documents and Settings\Remuser\Мои документы\RAD Studio\Projects\Circut\ma.rc=</Transaction>
+  </Transactions>
+</BorlandProject>
